@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9170894106729419403
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 702071587417562216, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: m_Name
+      value: Seed_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4650718501064730611, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: SeedId
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4650718501064730611, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: Rarity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4650718501064730611, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: Cost
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4755175875293236100, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4755175875293236100, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4755175875293236100, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4755175875293236100, guid: 8f34894051b85df4592095ce302d4bbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8f34894051b85df4592095ce302d4bbe, type: 3}
